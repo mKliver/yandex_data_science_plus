@@ -1,0 +1,7 @@
+# Distribution / packaging
+venv/
+catboost_info/
+tutorial/
+*.pdf
+*.zip
+*.rar
